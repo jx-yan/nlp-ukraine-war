@@ -70,7 +70,7 @@ cd sentiment/bert-sentiment-classifier
 ### Installation
 > It is recommeneded to run this notebook on a GPU due to the model's high compute requirements
 - Step 1: Install CUDA Toolkit, cuDNN Library, Anaconda
-- Step 2: Create a Conda Environment and install dependencies:
+- Step 2: Create a Conda Environment and install dependencies (using Anaconda Prompt):
 
 ```bash
 conda create --name gpu_env python=<supported-python-version>
