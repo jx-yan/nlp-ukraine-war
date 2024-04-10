@@ -1,6 +1,8 @@
 # Topic Modelling & Sentiment Analysis on Tweets about Russian Ukraine War
 This is the project for IS450 Text Mining and Natural Language Processing Group 2 where we apply text mining and NLP techniques (topic modelling, sentiment analysis) on a set of Twitter data focused on Russian Ukraine War.
 
+[Dataset can be downloaded from here](https://smu-my.sharepoint.com/:f:/g/personal/jiaxing_yan_2020_scis_smu_edu_sg/EtnYeCSWSaxOsN03jon3zk0BD0tHdrLvFPTawzcEGSgCQA?e=9eh0np)
+
 ## Topic Modeling Analysis
 
 ### Directory
