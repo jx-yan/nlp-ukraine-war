@@ -14,10 +14,13 @@ Make sure you have the following libraries installed:
 - textblob
 
 You can install these libraries using pip:
+```
 pip install pandas nltk scikit-learn wordcloud matplotlib textblob
+```
 
 Additionally, you need to download NLTK resources:
-```pythonimport nltk
+```python
+import nltk
 nltk.download('vader_lexicon')nltk.download('punkt')
 nltk.download('stopwords')nltk.download('wordnet')
-nltk.download('sentiwordnet')
+nltk.download('sentiwordnet')```
