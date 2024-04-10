@@ -41,6 +41,19 @@ This section presents an analysis of sentiments using three distinct lexicons—
 ### Prerequisites
 - **Required Libraries**: `pandas`, `nltk`, `sklearn`, `wordcloud`, `matplotlib`, `textblob`
 
+## Naive Bayes and Maxent Classifier Sentiment Analysis and RoBERTa Emotional Classifier
+
+### Directory
+
+```
+cd sentiment/naive-bayes-maxent-sentiment-classifier_roberta-emotion-classifier
+```
+### Overview
+This section presents an analysis of sentiments using Naive Bayes and Maxent Classification Models—applied to a labeled dataset titled 'uk_ru_2023_en_text_random_labeled_dataset_Labelled.csv'. This dataset comprises English text data that has been pre-labeled. In addition, the section also features Emotional Classification of the same text using a pre-trained model by [Jochen Hartmann](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) on Hugging Face. We apply his model to the same dataset to get the emotions expressed in each tweet.
+
+### Prerequisites
+- **Required Libraries**: `pandas`, `nltk`, `gensim`, `transformers`, `tensorflow`
+
 ## Sentiment Analysis using BERT-Base
 
 ### Directory
@@ -95,7 +108,8 @@ jupyter notebook
 import torch
 torch.cuda.is_available()
 # output: True
-```
+```
+
 
 ### Data Preparation
 
