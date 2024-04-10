@@ -41,12 +41,12 @@ cd sentiment/bert-sentiment-classifier
 
 - This notebook performs sentiment analysis using a fine-tuned BERT model on a Twitter dataset with Russian Ukraine War.
 - Key steps include:
-    1. Data loading and preprocessing
-    2. Text encoding with BERT tokenizer
-    3. Fine-tuning a BERT model for sentiment classification
-    4. Model training and evaluation
-    5. Applying the trained model to predict sentiment
-    6. Calculating sentiment distribution and per-class accuracy
+  1. Data loading and preprocessing
+  2. Text encoding with BERT tokenizer
+  3. Fine-tuning a BERT model for sentiment classification
+  4. Model training and evaluation
+  5. Applying the trained model to predict sentiment
+  6. Calculating sentiment distribution and per-class accuracy
 
 ### Dependencies
 
