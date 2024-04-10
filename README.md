@@ -3,6 +3,8 @@ This is the project for IS450 Text Mining and Natural Language Processing Group 
 
 ## Topic Modeling Analysis
 
+### Directory
+
 ```
 cd topic
 ```
@@ -25,6 +27,9 @@ This Jupyter notebook contains a comparative analysis of three different topic m
 - **Required Libraries**: `pandas`, `re`, `sys`, `csv`, `ast`, `wordcloud`, `gensim`, `nltk`, `numpy`, `matplotlib`, `PLSA`
 
 ## Lexicon-Based Sentiment Analysis
+
+### Directory
+
 ```
 cd sentiment/lexicon-based-sentiment-analysis
 ```
@@ -34,7 +39,10 @@ This section presents an analysis of sentiments using three distinct lexicons—
 ### Prerequisites
 - **Required Libraries**: `pandas`, `nltk`, `sklearn`, `wordcloud`, `matplotlib`, `textblob`
 
-## Sentiment Analysis of Russian Ukraine War Twitter Dataset using BERT 
+## Sentiment Analysis of Russian Ukraine War Twitter Dataset using BERT
+
+### Directory
+
 ```
 cd sentiment/bert-sentiment-classifier
 ```
