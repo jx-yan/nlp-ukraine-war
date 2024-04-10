@@ -39,7 +39,7 @@ This section presents an analysis of sentiments using three distinct lexicons—
 ### Prerequisites
 - **Required Libraries**: `pandas`, `nltk`, `sklearn`, `wordcloud`, `matplotlib`, `textblob`
 
-## Sentiment Analysis of Russian Ukraine War Twitter Dataset using BERT
+## Sentiment Analysis using BERT-Base
 
 ### Directory
 
